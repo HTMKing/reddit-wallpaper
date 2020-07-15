@@ -26,7 +26,7 @@ Wal's command line arguments can be changed.  On the script, one argument is to 
 {
   sleep 3
   pywalfox update
-}
+} &
 firefox
 ```
 and setting my i3 config to run this instead of normal firefox.
